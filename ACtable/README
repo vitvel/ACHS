@@ -1,0 +1,13 @@
+Tables with the analitycal continuation of the harmonic sums near negative integer numbers up to terms with the special numbers with weight 12 (z12 and other)
+ACtable1.m - contains defenition of the harmonic sums
+ACtable2.m
+ACtable3.m
+ACtable4.m
+ACtable5.m
+ACtable6.m
+ACtable7.m
+ACtable8.m
+ACtable9.m
+ACtable10.m.gz  - packed to save space, please unpack
+ACtable11.m.gz  - packed to save space, please unpack
+Minus1 - directory, which contains expansions of the harmonic sums with index (-1)

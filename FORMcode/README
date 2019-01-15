@@ -1,0 +1,24 @@
+These are the original files, which can be downloaded from the corresponding web-pages
+harmpol.h
+summer.h
+alt10.prc
+alt11.prc
+alt12.prc
+alt7.prc
+alt8.prc
+alt9.prc
+altlow.h
+
+-----------------
+harmpol.hh - modified harmpol.h for the usage with DATAMINE database
+-----------------
+ExpandS2.frm - simple example of the usage hrampol and summer packeges
+-----------------
+ExpandS2multS1p3.frm - simple example how with multiplication by the harmonic sum with one index increase the powers of logaritms in the end
+-----------------
+ExpandS2multS1p3DATAMINE.frm - simple example how to do the same with DATAMINE database and modified harmpol.hh
+-----------------
+ExpandS2multS1p3DATAMINEfull.frm -simple example to obtain expansion for the harmonic sum up to some power in w defined by preprocessor variables "multS"
+-----------------
+mult - directory, which contains inverse expansion of the harmonic sums with one index, loaded in file ExpandS2multS1p3DATAMINEfull.frm
+

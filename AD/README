@@ -1,0 +1,6 @@
+ADN3LO.m - anomalous dimension of twist-2 operators in N=4 SYM theory up to fourth order of perturbative theory in planar limit
+ADN5LO.m - anomalous dimension of twist-2 operators in N=4 SYM theory up to sixth order of perturbative theory in planar limit
+LLABFKL.m - eigenvalues of the kernel of BFKL equation in leading-logarithm approximation (LLA)
+NLLABFKL.m - eigenvalues of the kernel of BFKL equation in next-to-leading-logarithm approximation (NLLA)
+NNLLABFKL.m - eigenvalues of the kernel of BFKL equation in next-to-next-to-leading-logarithm approximation (NNLLA)
+N3LLABFKLn.m - intercept of BFKL equation for arbitrary konformal spin up to forth order (NNNLLA==N3LLA)
