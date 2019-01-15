@@ -1,14 +1,14 @@
 These are the original files, which can be downloaded from the corresponding web-pages
 harmpol.h
 summer.h
-alt10.prc
-alt11.prc
-alt12.prc
+altlow.h
 alt7.prc
 alt8.prc
 alt9.prc
-altlow.h
-
+alt10.prc - absent, please, download separately from https://www.nikhef.nl/~form/datamine/alternating/rational/alldepth/alt10.prc.bz2
+alt11.prc - absent, please, download separately from https://www.nikhef.nl/~form/datamine/alternating/rational/alldepth/alt11.prc.bz2
+alt12.prc - absent, please, download separately from https://www.nikhef.nl/~form/datamine/alternating/rational/alldepth/alt12.prc.bz2
+before run the frm-code, please, download alt10.prc.bz2, alt11.prc.bz2, alt12.prc.bz2 from links above and unbzip2
 -----------------
 harmpol.hh - modified harmpol.h for the usage with DATAMINE database
 -----------------
