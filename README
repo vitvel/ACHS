@@ -1,3 +1,4 @@
 ACtable - directory, which contains the tables with expansion of the harmonic sums. Some tables were packed to save space, please unpack.
 AD - diectory, which contains the expressions for the different anomalous dimensions.
 FORMcode - directory, which contains FORM code to produce ACtables.
+CodeForPaper.m - math-file, which contains math-code from paper; used it for copy-paste to nb-file or to extract necessary operation
