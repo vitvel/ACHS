@@ -4,6 +4,10 @@ ACtable2.m
 ACtable3.m
 ACtable4.m
 ACtable5.m
-ACtable6.m.gz - packed to save space, please unpack
-ACtable7.m.gz - packed to save space, please unpack
-
+ACtable6.m.bz2 - packed to save space, please unpack
+file ACtable7.m was subdivided into two part, which can be used separately
+ACtable70.m.bz2 - file ACtable7.m was subdivided into two part and packed to save space, please unpack
+ACtable71.m.bz2 - file ACtable7.m was subdivided into two part and packed to save space, please unpack
+To rejoin ACtable7 in MATHEMATICA session input
+ACtable7=Join[Get["ACtable70.m"],Get["ACtable71.m"]];
+with full path if necessary
