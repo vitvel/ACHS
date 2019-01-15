@@ -1,4 +1,5 @@
 Tables with the analitycal continuation of the harmonic sums near negative integer numbers up to terms with the special numbers with weight 12 (z12 and other)
+Minus1 - directory, which contains expansions of the harmonic sums with index (-1)
 ACtable1.m - contains defenition of the harmonic sums
 ACtable2.m
 ACtable3.m
@@ -7,7 +8,12 @@ ACtable5.m
 ACtable6.m
 ACtable7.m
 ACtable8.m
-ACtable9.m
-ACtable10.m.gz  - packed to save space, please unpack
-ACtable11.m.gz  - packed to save space, please unpack
-Minus1 - directory, which contains expansions of the harmonic sums with index (-1)
+ACtable9.m.bz2  - packed to save space, please unpack 
+ACtable10.m.bz2  - packed to save space, please unpack
+file ACtable11.m was subdivided into three part, which can be used separately
+ACtable110.m.bz2 - file ACtable11.m was subdivided into three part and packed to save space, please unpack
+ACtable111.m.bz2 - file ACtable11.m was subdivided into three part and packed to save space, please unpack
+ACtable112.m.bz2 - file ACtable11.m was subdivided into three part and packed to save space, please unpack
+To rejoin ACtable11 in MATHEMATICA session input
+ACtable11=Join[Get["ACtable110.m"],Get["ACtable111.m"],Get["ACtable112.m"]];
+with full path if necessary
