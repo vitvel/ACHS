@@ -1,0 +1,6 @@
+Tables with the analitycal continuation of the harmonic sums (only weight 13) near negative integer numbers up to terms with the special numbers with weight 12 (z12 and other)
+file ACtable13.m was subdivided into four part, which can be used separately
+ACtable13i.m.bz2 - file ACtable13.m was subdivided into four part and packed to save space, please unpack
+To rejoin ACtable13 in MATHEMATICA session input
+ACtable13=Join[Get[StringJoin["ACtable13",ToString[#],".m"]] &/@ Range[0,29]];
+with full path if necessary
